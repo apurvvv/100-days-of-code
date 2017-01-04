@@ -7,3 +7,11 @@
 **Thoughts:** CodingBat is a project by Nick Parlante, a computer science lecturer at Stanford that hosts coding problems to build coding skill in Java and Python. I however is willing to solve these problems in Scala.
 
 **Link to work:** [scala-coding-bat](https://github.com/codingkapoor/scala-coding-bat)
+
+### Day 2: January 04, 2017
+
+**Today's Progress**: Completed all 31 exercises from Warmup-I CodingBat section.
+
+**Thoughts:** Scala is fun!
+
+**Link to work:** [scala-coding-bat](https://github.com/codingkapoor/scala-coding-bat)
