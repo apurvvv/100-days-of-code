@@ -15,3 +15,11 @@
 **Thoughts:** Scala is fun!
 
 **Link to work:** [scala-coding-bat](https://github.com/codingkapoor/scala-coding-bat)
+
+### Day 3: January 05, 2017
+
+**Today's Progress**: Completed first 6 exercises from Warmup-II CodingBat section.
+
+**Thoughts:** Used recursion first time in this problem series.
+
+**Link to work:** [scala-coding-bat](https://github.com/codingkapoor/scala-coding-bat)
