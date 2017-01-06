@@ -23,3 +23,12 @@
 **Thoughts:** Used recursion first time in this problem series.
 
 **Link to work:** [scala-coding-bat](https://github.com/codingkapoor/scala-coding-bat)
+
+
+### Day 4: January 06, 2017
+
+**Today's Progress**: Worked on exercises in CodingBat's Warmup-II section.
+
+**Thoughts:** Conciseness of Scala is mesmerising.
+
+**Link to work:** [scala-coding-bat](https://github.com/codingkapoor/scala-coding-bat)
