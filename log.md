@@ -33,7 +33,7 @@
 
 **Link to work:** [scala-coding-bat](https://github.com/codingkapoor/scala-coding-bat)
 
-### Day 4: January 07, 2017
+### Day 5: January 07, 2017
 
 **Today's Progress**: Completed exercises in CodingBat's Warmup-II section.
 
