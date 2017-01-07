@@ -32,3 +32,11 @@
 **Thoughts:** Conciseness of Scala is mesmerising.
 
 **Link to work:** [scala-coding-bat](https://github.com/codingkapoor/scala-coding-bat)
+
+### Day 4: January 07, 2017
+
+**Today's Progress**: Completed exercises in CodingBat's Warmup-II section.
+
+**Thoughts:** None
+
+**Link to work:** [scala-coding-bat](https://github.com/codingkapoor/scala-coding-bat)
