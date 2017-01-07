@@ -35,8 +35,8 @@
 
 ### Day 5: January 07, 2017
 
-**Today's Progress**: Completed exercises in CodingBat's Warmup-II section.
+**Today's Progress**: Completed exercises in CodingBat's Warmup-II section & started working on exercises in String-I section.
 
-**Thoughts:** None
+**Thoughts:** Writing test cases prior to working on logic helps in better understanding the problem as you get to spend more time thinking about the use cases in order to write the test cases.
 
 **Link to work:** [scala-coding-bat](https://github.com/codingkapoor/scala-coding-bat)
