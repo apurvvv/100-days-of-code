@@ -40,3 +40,19 @@
 **Thoughts:** Writing test cases prior to working on logic helps in better understanding the problem as you get to spend more time thinking about the use cases in order to write the test cases.
 
 **Link to work:** [scala-coding-bat](https://github.com/codingkapoor/scala-coding-bat)
+
+### Day 6: January 10, 2017
+
+**Today's Progress**: Worked on CodingBat's String-I section.
+
+**Thoughts:** Couple of problems are similar to problems in Warmup sections.
+
+**Link to work:** [scala-coding-bat](https://github.com/codingkapoor/scala-coding-bat)
+
+### Day 7: January 11, 2017
+
+**Today's Progress**: Completed CodingBat's String-I section.
+
+**Thoughts:** Glad to make it this far!
+
+**Link to work:** [scala-coding-bat](https://github.com/codingkapoor/scala-coding-bat)
