@@ -64,3 +64,11 @@
 **Thoughts:** Array are mutable unlike Lists in Scala.
 
 **Link to work:** [scala-coding-bat](https://github.com/codingkapoor/scala-coding-bat)
+
+### Day 9: January 13, 2017
+
+**Today's Progress**: Completed all the exercises from CodingBat's Array-I section.
+
+**Thoughts:** Targeting 9 exercises in one go helps finishing the complete section soon enough.
+
+**Link to work:** [scala-coding-bat](https://github.com/codingkapoor/scala-coding-bat)
