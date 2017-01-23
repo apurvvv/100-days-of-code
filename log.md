@@ -73,7 +73,7 @@
 
 **Link to work:** [scala-coding-bat](https://github.com/codingkapoor/scala-coding-bat)
 
-### Day 10: January 14 , 2017
+### Day 10: January 14, 2017
 
 **Today's Progress**: Working on CodingBat's Logic-I section.
 
@@ -81,7 +81,7 @@
 
 **Link to work:** [scala-coding-bat](https://github.com/codingkapoor/scala-coding-bat)
 
-### Day 11: January 15 , 2017
+### Day 11: January 15, 2017
 
 **Today's Progress**: Working on CodingBat's Logic-I section.
 
@@ -89,7 +89,7 @@
 
 **Link to work:** [scala-coding-bat](https://github.com/codingkapoor/scala-coding-bat)
 
-### Day 12: January 18 , 2017
+### Day 12: January 18, 2017
 
 **Today's Progress**: Working on CodingBat's Logic-I section.
 
@@ -97,7 +97,7 @@
 
 **Link to work:** [scala-coding-bat](https://github.com/codingkapoor/scala-coding-bat)
 
-### Day 13: January 19 , 2017
+### Day 13: January 19, 2017
 
 **Today's Progress**: Working on CodingBat's Logic-I section.
 
@@ -105,7 +105,7 @@
 
 **Link to work:** [scala-coding-bat](https://github.com/codingkapoor/scala-coding-bat)
 
-### Day 14: January 20 , 2017
+### Day 14: January 20, 2017
 
 **Today's Progress**: Setting up a new system to work on.
 
@@ -113,10 +113,26 @@
 
 **Link to work:** [scala-coding-bat](https://github.com/codingkapoor/scala-coding-bat)
 
-### Day 15: January 21 , 2017
+### Day 15: January 21, 2017
 
 **Today's Progress**: Completed all the exercises from CodingBat's Logic-I section.
 
 **Thoughts:** Will be taking up git lessons next.
+
+**Link to work:** [scala-coding-bat](https://github.com/codingkapoor/scala-coding-bat)
+
+### Day 16: January 22, 2017
+
+**Today's Progress**: Learning Git.
+
+**Thoughts:** Codeschool has amazing git tutorials.
+
+**Link to work:** [Git Real](https://www.codeschool.com/courses/git-real)
+
+### Day 17: January 23, 2017
+
+**Today's Progress**: Working on exercises from CodingBat's Logic-II section.
+
+**Thoughts:** Will be taking up git lessons simultaneously.
 
 **Link to work:** [scala-coding-bat](https://github.com/codingkapoor/scala-coding-bat)
